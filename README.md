@@ -51,6 +51,7 @@ DEVELOPED BY: MOHAMMAD SUHAEL
 REGISTER NUMBER: 24007235
 
 ```
+module sr_ff(s,r,clk,q,qbar);
 input s,r,clk;
 output reg q;
 output reg qbar;
